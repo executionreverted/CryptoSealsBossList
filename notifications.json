@@ -1,4 +1,8 @@
-[{
+[
+  {"text": "PEPEBRINGER IS BACK FOR SUBNET REVENGE. DO SOMETHING SUMMONER!!!", "color" : "text-green-600"},
+  {
   "text": "Transactions can take time to show up on client. Always send transactions one by one.",
   "color": "text-green-500"
-}, {"text": "CORRUPTED CELESTION HAS ARRIVED TO THE REALM, SAVE US SUMMONER!", "color" : "text-yellow-500"}]
+}, 
+ {"text": "CORRUPTED CELESTION HAS ARRIVED TO THE REALM, SAVE US SUMMONER!", "color" : "text-yellow-500"}
+]
